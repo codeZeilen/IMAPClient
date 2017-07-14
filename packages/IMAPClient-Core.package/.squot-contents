@@ -1,4 +1,0 @@
-{
-	#serializer : #SquotCypressCodeSerializer,
-	#objectClassName : #PackageInfo
-}

@@ -8,4 +8,5 @@ listFoldersResponse
 		'* LIST (\HasNoChildren) "." "INBOX.Sent"'.
 		'* LIST (\HasChildren) "." "INBOX.Spam"'.
 		'* LIST (\HasNoChildren) "." "INBOX.Trash"'.
+		'* LIST (\HasNoChildren) "." "AnotherFolder.With Spaces"'.
 		'. OK LIST completed'}
